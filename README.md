@@ -4,7 +4,6 @@
   <b>Computer Science Engineering Student · Web Administrator · AI/ML Enthusiast</b><br/>
   📍 Miskolc, Hungary &nbsp;|&nbsp;
   📧 <a href="mailto:huzaifahmed106@gmail.com">huzaifahmed106@gmail.com</a> &nbsp;|&nbsp;
-  📞 +36 707 434 415 &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/huzaifa-mughal/">LinkedIn</a>
 </p>
 
