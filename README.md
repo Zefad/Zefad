@@ -11,9 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm an undergraduate studying **Computer Science Engineering** at the University of Miskolc, Hungary. I bring hands-on professional experience in web administration and e-commerce platform management, and I'm actively channeling that foundation into **AI and Machine Learning** — building projects with TensorFlow, Scikit-Learn, IBM Watson, and Flask.
-
-I love solving real-world problems with code, whether that's optimising a WooCommerce storefront on a Linux VPS or training a model to classify images with 95% accuracy.
+I'm a Computer Science Engineering student at the University of Miskolc, Hungary, focused on machine learning and data science. Before moving here, I studied Artificial Intelligence at SZABIST (Pakistan), where I built the math and CS foundation behind ML: linear algebra, probability and statistics, algorithms, and databases.
 
 ---
 
